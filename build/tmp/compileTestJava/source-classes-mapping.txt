@@ -1,0 +1,12 @@
+com/dekosas/Runners/SesionRunner.java
+ com.dekosas.Runners.SesionRunner
+com/dekosas/Runners/CompraPorBusquedaRunner.java
+ com.dekosas.Runners.CompraPorBusquedaRunner
+com/dekosas/Runners/CompraPorCategoriaRunner.java
+ com.dekosas.Runners.CompraPorCategoriaRunner
+com/dekosas/StepDefinitions/SesionStepDefinition.java
+ com.dekosas.StepDefinitions.SesionStepDefinition
+com/dekosas/StepDefinitions/compraPorBusquedaStepDefinition.java
+ com.dekosas.StepDefinitions.compraPorBusquedaStepDefinition
+com/dekosas/StepDefinitions/CompraPorCategoriaStepDefinition.java
+ com.dekosas.StepDefinitions.CompraPorCategoriaStepDefinition
